@@ -1,0 +1,15 @@
+tgcrypto<=1.2.3
+python-dotenv<=0.20.0
+motor
+aiofiles
+dnspython
+apscheduler
+requests
+psutil
+pyromod==1.5
+Flask==2.2.2
+gunicorn==20.1.0
+aiohttp==3.8.2
+python-dotenv<=0.20.0
+TgCrypto<=1.2.5
+pyrofork==2.3.48
